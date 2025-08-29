@@ -1,0 +1,1 @@
+# globallink-builder-text-plugin
